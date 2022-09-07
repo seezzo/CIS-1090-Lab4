@@ -1,6 +1,7 @@
 //STEP 0    Fork and download this lab
 
-//STEP 1    Read the entire program
+//STEP 1    Read the entire program, take a guess at what it will do,
+//          and then run it
 
 //Define a function named "max" that takes two parameters
 //and returns the larger of the two.
