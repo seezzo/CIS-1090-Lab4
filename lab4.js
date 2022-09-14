@@ -16,7 +16,13 @@ function max(a, b){
 //STEP 2    Define a second function named min that returns
 //          The smaller of the two parameters
 
-//(YOUR WORK HERE)
+function min(a,b){
+    if ( a < b){
+        return a;
+    } else {
+        return b;
+    }
+}
 
 //STEP 3    Commit this code to your GitHub!
 
